@@ -1,4 +1,18 @@
-### Hi there 👋
+# Sobre mim
+
+## Professor de Matemática PSS da rede pública do Paraná
+- Graduado em Ciências com Habilitação em Matemática pelas Faculdades Integradas Católicas de Palmas-PR (FACIPAL)
+- Especialização em Matemática Aplicada pela UNICENTRO.
+- Especialização em Medodologia do Ensino da Matemática pela Faculdade de Educação São Luís.
+- Especialização em Educação do Campo pela Faculdade de Educação São Luís.
+-  Curso com certificado de Java e C# pela Udemy do Professor Nélio Alves.
+- Bootcamp de Java Spring Boot da plataforma do Professor Nélio Alves. 
+
+- 🌱 Atualmente melhorando as habilidades no Framework SpringBootm e na Biblioteca React.
+- 🔭 Tentando transformar problemas de matemática do ensino médio em algoritmos pra automatizar a sua resolução.
+- 💬 contato: adroaldo.ferreira@escola.pr.gov.br
+- Interessado em aprender novas linguagens.
+
 
 <!--
 **hygino82/hygino82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
