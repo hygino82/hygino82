@@ -8,7 +8,7 @@
 -  Curso com certificado de Java e C# pela Udemy do Professor Nélio Alves.
 - Bootcamp de Java Spring Boot da plataforma do Professor Nélio Alves. 
 
-- 🌱 Atualmente melhorando as habilidades no Framework SpringBootm e na Biblioteca React.
+- 🌱 Atualmente melhorando as habilidades no Framework Spring Boot e na Biblioteca React.
 - 🔭 Tentando transformar problemas de matemática do ensino médio em algoritmos pra automatizar a sua resolução.
 - 💬 contato: adroaldo.ferreira@escola.pr.gov.br
 - Interessado em aprender novas linguagens.
