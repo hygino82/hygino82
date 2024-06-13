@@ -12,6 +12,7 @@
 - 🔭 Tentando transformar problemas de matemática do ensino médio em algoritmos pra automatizar a sua resolução.
 - 💬 contato: adroaldo.ferreira@escola.pr.gov.br
 - Interessado em aprender novas linguagens.
+- Cursando Pós Graduação em Java pela UTFPR. 
 
 
 <!--
