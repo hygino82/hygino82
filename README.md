@@ -5,14 +5,14 @@
 - Especialização em Matemática Aplicada pela UNICENTRO.
 - Especialização em Medodologia do Ensino da Matemática pela Faculdade de Educação São Luís.
 - Especialização em Educação do Campo pela Faculdade de Educação São Luís.
--  Curso com certificado de Java e C# pela Udemy do Professor Nélio Alves.
+- Curso com certificado de Java e C# pela Udemy do Professor Nélio Alves.
 - Bootcamp de Java Spring Boot da plataforma do Professor Nélio Alves. 
 
-- 🌱 Atualmente melhorando as habilidades no Framework Spring Boot e na Biblioteca React.
+- 🌱 Melhorando as habilidades no Framework Spring Boot e na Biblioteca React.
 - 🔭 Tentando transformar problemas de matemática do ensino médio em algoritmos pra automatizar a sua resolução.
 - 💬 contato: adroaldo.ferreira@escola.pr.gov.br
 - Interessado em aprender novas linguagens.
-- Cursando Pós Graduação em Java pela UTFPR. 
+- Cursando Pós Graduação em Tecnologia Java pela UTFPR. 
 
 
 <!--
